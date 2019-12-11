@@ -9,16 +9,21 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <link rel="stylesheet" href="frontPageStyling.css"
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
         <title>Front End Test</title>
     </head>
     <body>
-        <div class="topNavBar">
-            <a href="#home">Home</a>
-            <a href="#news">About Us</a>
-            <a href="#contact">Information</a>
-            <a href="#Parents">Parents</a>
-            <a href="#News">News & Events</a>
-            <a href="#Contact Us">Contact Us</a>
+        <div class="nav navbar-nav img-responsive" class="topNavBar" style="padding-left:150px">
+            <img src="images/logoImage.jpg" alt="Logo Image">
+            <a href="#home">Home </a>
+            <a href="#news"> About Us </a>
+            <a href="#contact"> Information </a>
+            <a href="#Parents"> Parents </a>
+            <a href="#News"> News & Events </a>
+            <a href="#Contact Us"> Contact Us </a>
+            <img src="images/twiterLinksImage.jpg" alt="Twiter Image">
         </div>
         
         <div>
