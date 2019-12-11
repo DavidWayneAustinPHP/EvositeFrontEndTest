@@ -12,17 +12,23 @@ and open the template in the editor.
         <title>Front End Test</title>
     </head>
     <body>
-        <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#news">About Us</a></li>
-            <li><a href="#contact">Information</a></li>
-            <li><a href="#Parents">Parents</a></li>
-            <li><a href="#News">News & Events</a></li>
-            <li><a href="#Contact Us">Contact Us</a></li>
-        </ul>
+        <div class="topNavBar">
+            <a href="#home">Home</a>
+            <a href="#news">About Us</a>
+            <a href="#contact">Information</a>
+            <a href="#Parents">Parents</a>
+            <a href="#News">News & Events</a>
+            <a href="#Contact Us">Contact Us</a>
+        </div>
         
-        
-        
+        <div>
+            <img class="img-responsive"  src="images/firstImage.jpg" alt="First Image">    
+            <img class="img-responsive" src="images/secondImage.jpg" alt="Second Image">
+            <img class="img-responsive" src="images/thirdImage.jpg" alt="Third Image">
+            <img class="img-responsive" src="images/fourthImage.jpg" alt="Fourth Image">
+            <img class="img-responsive" src="images/fithImage.jpg" alt="Fith Image">
+            <img class="img-responsive" src="images/sixthImage.jpg" alt="Sixth Image">
+        </div>
         
         <?php
         // put your code here
