@@ -48,3 +48,9 @@
    padding-top: 15px; 
    padding-bottom: 0px; 
 }
+
+/* CSS for Carousel Images   */
+.carsousel-news-images {
+    width:40%;
+    margin: auto;
+}

@@ -53,23 +53,23 @@ and open the template in the editor.
             <h1><b>News</b></h1>  
             <div id="thirdImage" class="carousel slide" data-ride="carousel">
                 <!-- Indicators -->
-                <ol class="carousel-indicators">
+                <ol class="carousel-indicators " >
                     <li data-target="#thirdImage" data-slide-to="0" class="active"></li>
                     <li data-target="#thirdImage" data-slide-to="1"></li>
                     <li data-target="#thirdImage" data-slide-to="2"></li>
                 </ol>
 
-                <div class="carousel-inner" style="background-color: orange">
+                <div class="carousel-inner" style="background-color: orange;">
                     <div class="item active">
-                        <img src="images/scrollArticlePage1.jpg" alt="MichelleObama" style="width:50%; ">
+                        <img class="carsousel-news-images" src="images/scrollArticlePage1.jpg" alt="MichelleObama">
                     </div>
 
                     <div class="item">
-                        <img src="images/scrollArticlePage2.jpg" alt="JackPetchy" style="width:50%;">
+                        <img class="carsousel-news-images" src="images/scrollArticlePage2.jpg" alt="JackPetchy">
                     </div>
 
                     <div class="item">
-                        <img src="images/scrollArticlePage3.jpg" alt="RockChallenge" style="width:50%;">
+                        <img class="carsousel-news-images" src="images/scrollArticlePage3.jpg" alt="RockChallenge">
                     </div>
                 </div>
 
