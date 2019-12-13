@@ -17,7 +17,7 @@ and open the template in the editor.
     <body>
         <div class="nav navbar-nav img-responsive" class="topNavBar" style="padding-left:150px">
             <img src="images/logoImage.jpg" alt="Logo Image">
-            <a href="#home">Home </a>
+            <a href="#home">Homea </a>
             <a href="#news"> About Us </a>
             <a href="#contact"> Information </a>
             <a href="#Parents"> Parents </a>
